@@ -1,7 +1,12 @@
 {
 	"painting": [
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
+			"image": "https://cdn.rawgit.com/kshaneclose/data/ff44b44d431cbecdc38e85ecb63dda81db88fedd/portfolio/images/17862723_10212636463849812_3801604721990915040_n.jpg",
+			"name": "Primal Squat",
+			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.rawgit.com/kshaneclose/data/50087d35a442f98d9c78a7434199270f4913fd61/portfolio/images/imgres.png",
 			"name": "Carwash",
 			"@type": "Painting"
 		},
@@ -27,7 +32,7 @@
 		},
 		{
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
-			"name": "Web electric3",
+			"name": "Faces n Faces",
 			"@type": "Painting"
 		}
 	]
